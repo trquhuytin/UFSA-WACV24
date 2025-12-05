@@ -1,4 +1,4 @@
-# Permutation-Aware Activity Segmentation via Unsupervised Frame-to-Segment Alignment
+# Permutation-Aware Activity Segmentation via Unsupervised Frame-to-Segment Alignment (WACV 2024)
 
 ## Overview
 This repository implements UFSA, an unsupervised permutation-aware method for temporal action segmentation.
